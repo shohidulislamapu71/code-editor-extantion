@@ -1,0 +1,5 @@
+one dark pro
+material icon theme
+prettier
+devsense
+code runner
