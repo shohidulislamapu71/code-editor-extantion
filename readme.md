@@ -7,4 +7,4 @@ Please See Below 👇
 👉 devsense
 👉 code runner
 
-If you need Auto Style. SO Please Add This link [Matcha Mizu Syntax Highlighting](https://matcha.mizu.sh/styles/@syntax-highlighting/mod.css](https://matcha.mizu.sh/styles/@syntax-highlighting/mod.css)
+If you need Auto Style. SO Please Add This link [Matcha Mizu Syntax Highlighting](https://matcha.mizu.sh/styles/@syntax-highlighting/mod.css]
